@@ -10,4 +10,5 @@ Videos:
 * [Drilling the bricks](https://youtu.be/usWitECH5NU)
 * [LED's are in](https://youtu.be/l4Xo7qKC0vY)
 * [POST check](https://youtu.be/fMXZ4s04P24)
+* [Final product](https://youtu.be/NCbAbWCnCWw)
 
